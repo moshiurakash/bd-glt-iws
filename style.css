@@ -1,0 +1,31 @@
+#logo_image{
+    height: 40px;
+    margin-top: -10px;
+}
+.main_body{
+    background-color:rgb(12, 2, 2);
+    height: 730px;
+}
+#cbn_image{
+    opacity: 0.2;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+#main_area{
+    display: inline-flex;
+}
+.iws_description{
+    margin-top: 280px;
+    opacity: 1;
+    color: cornsilk;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+}
